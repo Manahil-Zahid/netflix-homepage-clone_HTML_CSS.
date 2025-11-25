@@ -15,4 +15,4 @@ Smooth scrolling and basic animations
 Fully static website (HTML, CSS, JS)
 
 ## Project Screenshot
-![Netflix Clone Homepage](images/ProjectScreenshot.png)
+![Netflix Clone Homepage](Screenshot.png)
