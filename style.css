@@ -151,11 +151,11 @@
         } */
 
         .red-curve {
-            box-sizing: border-box;
-            position: absolute;
-            height: 100%;
-            top: 0;
-            margin: auto;
+            border: 3px solid red;
+            position: relative;
+            top: 90px;
+            z-index: 99;
+            
         } 
 
         .trending-section {
